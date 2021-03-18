@@ -15,7 +15,7 @@
                 <a href="/#portfolio-" class="logo">CK the Quiz</a>
                 <ul class = "nav-menu" id = "nav-menu" aria-expanded="false">
                     <li>
-                        <a href="#" class="nav-link"  onclick = "alert('Currently testing the code across multiple browsers, both desktop and mobile. Project code will be available on GitHub soon.');">View Code</a>
+                        <a href="https://github.com/dvereen1/CommonKnowledge" class="nav-link">View Code</a>
                     </li>
                     <li>
                         <a href="/#portfolio-" class="nav-link">Portfolio</a>
