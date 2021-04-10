@@ -1,6 +1,7 @@
 <?php include_once("headNoNav.php"); ?>
         <title>CK the Quiz</title>
-        <link rel = "stylesheet" href = "ck.css">
+        <base href = "/portfolio/ckQuiz/">
+        <link rel = "stylesheet" href = "ckQuiz.css">
         <link rel = "stylesheet" href = "/CSS/allProjectsModal.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&display=swap" rel="stylesheet">
@@ -190,7 +191,7 @@
                 </div>
             </section>
         </main>
-        <script src ="ck.js"></script>
+        <script src ="ckQuiz.js"></script>
         <script src = "/JS/allProjectsModal.js"></script>
     </body>
 </html>
